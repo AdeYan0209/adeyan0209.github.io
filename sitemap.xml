@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/google02b03d8a061baae0.html</loc>
+    <loc>https://careersurf.blog/google02b03d8a061baae0.html</loc>
     
     <lastmod>2022-05-07</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/about/index.html</loc>
+    <loc>https://careersurf.blog/about/index.html</loc>
     
     <lastmod>2022-05-07</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/book-read/20220417-poor-charlie.html</loc>
+    <loc>https://careersurf.blog/book-read/20220417-poor-charlie.html</loc>
     
     <lastmod>2022-05-01</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/readclub/index.html</loc>
+    <loc>https://careersurf.blog/readclub/index.html</loc>
     
     <lastmod>2022-04-24</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/careerclub/index.html</loc>
+    <loc>https://careersurf.blog/careerclub/index.html</loc>
     
     <lastmod>2022-04-24</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/404.html</loc>
+    <loc>https://careersurf.blog/404.html</loc>
     
     <lastmod>2022-04-17</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>https://careersurf.blog/tags/index.html</loc>
     
     <lastmod>2022-04-11</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>https://careersurf.blog/categories/index.html</loc>
     
     <lastmod>2022-03-10</lastmod>
     
@@ -75,7 +75,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://careersurf.blog/</loc>
     <lastmod>2022-05-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -83,21 +83,21 @@
 
   
   <url>
-    <loc>http://example.com/tags/%E8%AE%80%E6%9B%B8%E5%BF%83%E5%BE%97/</loc>
+    <loc>https://careersurf.blog/tags/%E8%AE%80%E6%9B%B8%E5%BF%83%E5%BE%97/</loc>
     <lastmod>2022-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E5%BF%83%E9%9D%88%E6%88%90%E9%95%B7/</loc>
+    <loc>https://careersurf.blog/tags/%E5%BF%83%E9%9D%88%E6%88%90%E9%95%B7/</loc>
     <lastmod>2022-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E5%BF%83%E7%90%86%E5%AD%B8/</loc>
+    <loc>https://careersurf.blog/tags/%E5%BF%83%E7%90%86%E5%AD%B8/</loc>
     <lastmod>2022-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -106,14 +106,14 @@
 
   
   <url>
-    <loc>http://example.com/categories/%E8%81%B7%E6%B5%AA%E8%AE%80%E6%9B%B8%E6%9C%83/</loc>
+    <loc>https://careersurf.blog/categories/%E8%81%B7%E6%B5%AA%E8%AE%80%E6%9B%B8%E6%9C%83/</loc>
     <lastmod>2022-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/%E8%81%B7%E6%B5%AA%E8%AE%80%E6%9B%B8%E6%9C%83/%E8%AE%80%E6%9B%B8%E5%BF%83%E5%BE%97/</loc>
+    <loc>https://careersurf.blog/categories/%E8%81%B7%E6%B5%AA%E8%AE%80%E6%9B%B8%E6%9C%83/%E8%AE%80%E6%9B%B8%E5%BF%83%E5%BE%97/</loc>
     <lastmod>2022-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
