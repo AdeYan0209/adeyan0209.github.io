@@ -1139,7 +1139,7 @@ pre .javascript .function {
 .site-author-image {
   border: 2px solid #333;
   display: block;
-  margin: 0 auto;
+  margin: 1rem auto;
   max-width: 120px;
   padding: 2px;
   border-radius: 50%;
@@ -1154,7 +1154,8 @@ pre .javascript .function {
   padding: 0px 5px;
   color: #999;
   font-size: 1em;
-  margin-top: 5px;
+  margin-top: 20px;
+  margin-bottom: 20px;
   text-align: center;
 }
 .links-of-author {
@@ -1171,7 +1172,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #f6ff6c;
+  background: #fffff0;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
